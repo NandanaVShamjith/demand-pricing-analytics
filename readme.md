@@ -1,11 +1,10 @@
-
 # Demand Pricing & Operations Analysis  
-**End-to-End Analytics Project | Python | SQL | Dashboard**
+**End-to-End Analytics Project | Python | SQL | Tableau | Streamlit**
 
 ---
 
 ## Project Overview
-This project demonstrates an **end-to-end analytics workflow** combining **Python, SQL, and dashboarding** to support data-driven pricing and operational decisions in an e-commerce context.
+This project demonstrates an **end-to-end analytics workflow** combining **Python, SQL, Tableau, and Streamlit** to support data-driven pricing and operational decisions in an e-commerce context.
 
 The analysis focuses on understanding how **price, demand, delivery performance, and seller behaviour** interact, and how these factors impact revenue stability and customer experience.
 
@@ -40,11 +39,13 @@ The dataset contains transactional and operational data related to:
 
 ## Project Workflow
 The project follows a realistic analytics lifecycle:
+
 1. **Python** – Pricing model & data preparation  
 2. **SQL** – Schema design & business analysis  
-3. **Dashboard** – Executive-level insight communication  
+3. **Tableau Dashboard** – Executive-level visualization  
+4. **Streamlit App** – Interactive analytics interface  
 
-Each component has a clear and distinct role.
+Each component has a **distinct and well-defined role**.
 
 ---
 
@@ -64,7 +65,7 @@ Python was used to:
 
 ### Outcome
 - An **optimal price** was computed using a Python-based pricing model  
-- The model output was later surfaced in the dashboard as a pricing KPI  
+- The model output was later surfaced in both **Tableau and Streamlit** for decision support  
 
 > Python provided the analytical foundation for pricing decisions.
 
@@ -100,7 +101,10 @@ A clean, normalized schema with **6 final tables**:
 
 ---
 
-## Dashboard: Executive Communication
+## Tableau Dashboard: Executive Visualization
+
+### Dashboard Purpose
+The **Tableau dashboard** was built to provide a **static, executive-level view** of pricing, demand trends, and operational performance.
 
 ### KPIs Displayed
 - Total Orders: **98,666**  
@@ -108,19 +112,31 @@ A clean, normalized schema with **6 final tables**:
 - Average Order Value (AOV): **₹137.75**  
 - **Optimal Price: ₹93 (derived from Python pricing model)**  
 
-### Dashboard Insights
+### Tableau Insights
 - Demand shows a clear upward trend over time  
 - Orders are higher on weekdays than weekends  
 - Majority of deliveries are on time  
 - Product catalogue is skewed toward low-priced items  
 - Revenue is driven by a small number of categories  
 
-> The dashboard focuses on **what is happening**, while SQL explains **why** and Python explains **how pricing was derived**.
+---
+
+## Streamlit App: Interactive Analytics
+
+### Purpose
+A **Streamlit application** was built to:
+- Interactively explore pricing and operational metrics  
+- Present Python model outputs dynamically  
+- Allow users to drill into insights without using BI tools  
+
+The Streamlit app complements Tableau by offering **interactivity**, while Tableau focuses on **executive storytelling**.
 
 ---
 
-## Dashboard Preview
-Download twb: https://drive.google.com/file/d/1YPWwSHXk-VqV_JWInqVjFzCOHcWY5IAO/view?usp=sharing
+## Dashboard & App Preview
+Download twb: https://drive.google.com/file/d/1YPWwSHXk-VqV_JWInqVjFzCOHcWY5IAO/view?usp=drive_link
+
+
 ---
 
 ## Key Business Takeaways
@@ -134,19 +150,18 @@ Download twb: https://drive.google.com/file/d/1YPWwSHXk-VqV_JWInqVjFzCOHcWY5IAO/
 ## Skills Demonstrated
 - **Python:** Data cleaning, feature engineering, pricing model development  
 - **SQL:** Joins, CTEs, CASE logic, window functions, data integrity handling  
+- **Tableau:** Executive dashboard design and storytelling  
+- **Streamlit:** Interactive analytics application development  
 - **Data Modelling:** Normalized relational schema design  
 - **Analytics:** Translating data into business insights  
-- **Communication:** Executive-ready dashboard and documentation  
-
 
 ---
 
 ## Conclusion
-This project demonstrates the ability to move from **raw data to pricing models, operational analysis, and executive-level insights** using Python, SQL, and dashboards. The focus on real business questions, data integrity, and clear communication makes this project suitable for **data analyst and business analyst roles**.
+This project demonstrates the ability to move from **raw data to pricing models, operational analysis, and stakeholder-ready insights** using Python, SQL, Tableau, and Streamlit. The combination of modeling, relational analysis, executive visualization, and interactivity reflects how analytics solutions are built and communicated in real business environments.
 
 ---
 
 ## Author
 **Nandana V Shamjith**  
 Aspiring Data Analyst / Business Analyst
-
