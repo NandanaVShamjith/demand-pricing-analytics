@@ -107,16 +107,16 @@ A clean, normalized schema with **6 final tables**:
 The **Tableau dashboard** was built to provide a **static, executive-level view** of pricing, demand trends, and operational performance.
 
 ### KPIs Displayed
-- Total Orders: **98,666**  
-- Total Revenue: **₹13.59M**  
-- Average Order Value (AOV): **₹137.75**  
-- **Optimal Price: ₹93 (derived from Python pricing model)**  
+- Total Orders: **99,441**  
+- Total Revenue: **R$ 15.843 M**  
+- Average Order Value (AOV): **R$ 159,33**  
+- **Optimal Price: R$ 93 (derived from Python pricing model)**  
 
 ### Tableau Insights
 - Demand shows a clear upward trend over time  
 - Orders are higher on weekdays than weekends  
 - Majority of deliveries are on time  
-- Product catalogue is skewed toward low-priced items  
+- The product catalog contains a higher concentration of lower-priced items.
 - Revenue is driven by a small number of categories  
 
 ---
@@ -165,3 +165,4 @@ This project demonstrates the ability to move from **raw data to pricing models,
 ## Author
 **Nandana V Shamjith**  
 Aspiring Data Analyst / Business Analyst
+
