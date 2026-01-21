@@ -121,6 +121,14 @@ The **Tableau dashboard** was built to provide a **static, executive-level view*
 
 ---
 
+## Dashboard & App Preview
+Download twbx: https://drive.google.com/file/d/1bVW1tie40CcafggukIH7GUi3c5mDRKN0/view?usp=sharing
+Screenshot 1: https://drive.google.com/file/d/1TclIVhPZhmhXdPu819k1lt3IoOsdJmJD/view?usp=sharing
+Screenshot 2: https://drive.google.com/file/d/1wQVd1e8PmLUWddaeto3fyEC-85VvP1aK/view?usp=sharing
+
+
+---
+
 ## Streamlit App: Interactive Analytics
 
 ### Purpose
@@ -133,12 +141,6 @@ The Streamlit app complements Tableau by offering **interactivity**, while Table
 
 ---
 
-## Dashboard & App Preview
-Download twb: https://drive.google.com/file/d/1YPWwSHXk-VqV_JWInqVjFzCOHcWY5IAO/view?usp=drive_link
-
-
----
-
 ## Key Business Takeaways
 - Pricing optimization must be supported by operational efficiency  
 - Logistics partner performance is a major delivery risk  
@@ -146,6 +148,7 @@ Download twb: https://drive.google.com/file/d/1YPWwSHXk-VqV_JWInqVjFzCOHcWY5IAO/
 - Delivery performance alone does not drive customer retention  
 
 ---
+
 
 ## Skills Demonstrated
 - **Python:** Data cleaning, feature engineering, pricing model development  
@@ -165,4 +168,5 @@ This project demonstrates the ability to move from **raw data to pricing models,
 ## Author
 **Nandana V Shamjith**  
 Aspiring Data Analyst / Business Analyst
+
 
