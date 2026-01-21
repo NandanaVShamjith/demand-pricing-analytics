@@ -123,7 +123,9 @@ The **Tableau dashboard** was built to provide a **static, executive-level view*
 
 ## Dashboard & App Preview
 Download twbx: https://drive.google.com/file/d/1bVW1tie40CcafggukIH7GUi3c5mDRKN0/view?usp=sharing
+
 Screenshot 1: https://drive.google.com/file/d/1TclIVhPZhmhXdPu819k1lt3IoOsdJmJD/view?usp=sharing
+
 Screenshot 2: https://drive.google.com/file/d/1wQVd1e8PmLUWddaeto3fyEC-85VvP1aK/view?usp=sharing
 
 
@@ -168,5 +170,6 @@ This project demonstrates the ability to move from **raw data to pricing models,
 ## Author
 **Nandana V Shamjith**  
 Aspiring Data Analyst / Business Analyst
+
 
 
